@@ -1,4 +1,4 @@
-<h1 align="center">hello! i am Karan Singh V :) </h1>
+<h1 align="center">Hola! I'm Karan Singh V :) </h1>
 <h3 align="center"></h3>
 
 <!-- <img align="right" width="300px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"> -->
@@ -15,7 +15,7 @@ Some additions info and updates:
 
 ##
 -->
-## socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heykaran77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heykaran77) 
 
 
