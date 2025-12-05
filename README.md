@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heykaran77&label=Profile%20views&color=0e75b6&style=flat" alt="heykaran77" /> </p>
 
-- 🔭 I’m currently working on [Resumint](https://github.com/heykaran77/resumint)
+- 🔭 I’m currently Learning TS, NextJS.
 
 - 🌱 I’m currently learning **NextJS, TypeScript, NodeJS, Java**
 
