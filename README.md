@@ -5,14 +5,6 @@
 
 - 🔭 I’m currently Learning TS, NextJS.
 
-- 🌱 I’m currently learning **NextJS, TypeScript, NodeJS, Java**
-
-- 💬 Ask me about **React, TailwindCSS...**
-
-- 📫 How to reach me **devkaran.codes@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Oqbn4rAbMLzS8mgnK5JNsHZGXGR5awgb/view?usp=sharing](https://drive.google.com/file/d/1Oqbn4rAbMLzS8mgnK5JNsHZGXGR5awgb/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/heykaran77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heykaran77" height="30" width="40" /></a>
