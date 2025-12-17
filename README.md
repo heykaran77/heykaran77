@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karan Singh V</h1>
+<h1 align="center">halo! ich bin Karan Singh V</h1>
 <h3 align="center">Professional Console.Logger</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heykaran77&label=Profile%20views&color=0e75b6&style=flat" alt="heykaran77" /> </p>
