@@ -1,6 +1,6 @@
 <!-- Image Banner -->
 <p align="center">
-  [<img src="https://github.com/heykaran77/heykaran77/blob/main/Frame%201%20(2).jpg" alt="GitHub Banner" />](https://github.com/heykaran77/heykaran77/blob/main/Frame%202.jpg)
+  <img src="https://github.com/heykaran77/heykaran77/blob/main/Frame%201%20(2).jpg" alt="GitHub Banner" />
 </p>
 <!-- <p align="center">
   <img src="https://github.com/heykaran77/heykaran77/blob/main/NOBLR_ONLYNOISE.png" alt="GitHub Banner" />
