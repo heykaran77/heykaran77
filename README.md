@@ -1,4 +1,4 @@
 <!-- Image Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/heykaran77/heykaran77/main/Frame%201%20(2).jpg" alt="GitHub Banner" />
+  <img src="https://github.com/heykaran77/heykaran77/blob/main/Frame%202.jpg" alt="GitHub Banner" />
 </p>
